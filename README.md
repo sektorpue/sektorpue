@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sektorpue
 - 👀 I’m interested in Java, OpenText xECM
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning OpenText platform & products
+- 💞️ I’m looking to collaborate on extending OT platform
 - 📫 How to reach me ...
 
 <!---
